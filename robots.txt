@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jaysidi.github.io/portfolio/sitemap.xml

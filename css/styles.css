@@ -7995,6 +7995,10 @@ textarea.form-control-lg {
   text-align: center !important;
 }
 
+.text-justify, .text-justify * {
+  text-align: justify !important;
+}
+
 .text-decoration-none {
   text-decoration: none !important;
 }
@@ -11043,4 +11047,11 @@ html {
 
 .copyright {
   background-color: #1a252f;
+}
+
+.language-icon {
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  margin: 0 5px;
 }
